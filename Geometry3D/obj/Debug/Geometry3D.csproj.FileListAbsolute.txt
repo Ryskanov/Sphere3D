@@ -1,0 +1,15 @@
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\bin\Debug\Geometry3D.exe.config
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\bin\Debug\Geometry3D.exe
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\bin\Debug\Geometry3D.pdb
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csprojAssemblyReference.cache
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\MainWindow.g.cs
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\App.g.cs
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D_MarkupCompile.cache
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D_MarkupCompile.lref
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\MainWindow.baml
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.g.resources
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.Properties.Resources.resources
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csproj.GenerateResource.cache
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csproj.CoreCompileInputs.cache
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.exe
+C:\Users\ryskanov.i\source\repos\Geometry3D\Geometry3D\obj\Debug\Geometry3D.pdb
